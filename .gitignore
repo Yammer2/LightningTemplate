@@ -1,0 +1,12 @@
+__pycache__/
+logs/*
+dataset/*
+best_models/*
+wandb/*
+*.csv
+Pipfile
+Pipfile.lock
+
+!logs/.gitkeep
+!dataset/.gitkeep
+!best_models/.gitkeep
