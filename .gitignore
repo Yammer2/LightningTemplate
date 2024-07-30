@@ -1,8 +1,8 @@
 __pycache__/
-logs/*
-dataset/*
-best_models/*
-wandb/*
+logs/
+dataset/
+best_models/
+wandb/
 *.csv
 Pipfile
 Pipfile.lock
